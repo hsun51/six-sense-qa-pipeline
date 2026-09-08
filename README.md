@@ -41,7 +41,7 @@ This pipeline was engineered to mirror the structure of medical device quality s
 *(The formal 1-page Design Verification protocol is attached as a PDF and transcribed in the Appendix below).*
 
 ### 5. Repository Asset Guide
-* **[`VV_Compression_Protocol(1).pdf`](VV_Compression_Protocol(1).pdf):** 1-page formal testing parameters and acceptance criteria.
+* **[`VV_Compression_Protocol.pdf`](VV_Compression_Protocol.pdf):** 1-page formal testing parameters and acceptance criteria.
 * **[`compression_test_data.csv`](compression_test_data.csv):** Simulated batch load-cell data.
 * **[`Python.ipynb`](Python.ipynb):** Automated Python pipeline and data analysis.
 
